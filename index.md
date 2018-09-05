@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Some text in the index.md file.... 
