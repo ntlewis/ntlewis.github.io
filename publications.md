@@ -20,7 +20,7 @@ Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone and P. L. Read. Investigati
 ### Conference Presentations / Posters 
 
 #### 2019 
-**Lewis, N. T.**, P. L. Read. What controls the strength of super-rotation in terrestrial atmospheres?, International Venus Conference 2019, Hokkaido, Japan, 2019. (Poster)
+**Lewis, N. T.**, P. L. Read. What controls the strength of super-rotation in terrestrial atmospheres?, International Venus Conference 2019. Hokkaido, Japan, 2019. (Poster)
 
 #### 2018
-**Lewis, N. T.**, F. H. Lambert, I. A. Boutle, N. J. Mayne, J. Manners and D. M. Acreman. The influence of a sub-stellar continent on the climate of a tidally-locked exoplanet, Met Office Academic Partnership Presentation and Poster Event, Exeter, UK, 2018. (Poster)
+**Lewis, N. T.**, F. H. Lambert, I. A. Boutle, N. J. Mayne, J. Manners and D. M. Acreman. The influence of a sub-stellar continent on the climate of a tidally-locked exoplanet. Met Office Academic Partnership Presentation and Poster Event, Exeter, UK, 2018. (Poster)
