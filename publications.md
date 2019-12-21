@@ -24,7 +24,7 @@ Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone, and P. L. Read. Investigat
 ### Conference Presentations / Posters 
 
 #### 2020 
-**Lewis, N.T.** The dependence of global super-rotation on planetary rotation rate. The Dynamics of Rotating Fluids, London, United Kingdom, 2020. (Presentation) 
+**Lewis, N. T.** The dependence of global super-rotation on planetary rotation rate. The Dynamics of Rotating Fluids, London, United Kingdom, 2020. (Presentation) 
 
 #### 2019 
 **Lewis, N. T.**, and P. L. Read. What controls the strength of super-rotation in terrestrial atmospheres? ExoClimes V. Oxford, United Kingdom, 2019. (Poster) 
