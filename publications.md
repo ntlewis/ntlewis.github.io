@@ -7,13 +7,14 @@ permalink: /publications/
 ### Journal Publications 
 
 #### In prep
-**Lewis, N. T.**, S. I. Thomson, and G. K. Vallis. The climate and atmospheric dynamics of an Earth-like planet on an elliptical orbit, 2020. 
+**Lewis, N. T.**, S. I. Thomson, and G. K. Vallis. The climate and atmospheric dynamics of an Earth-like planet on an elliptical orbit.
 
-**Lewis, N. T.**, G. C. Colyer, and P. L. Read. The dependence of global and local metrics of super-rotation on planetary rotation rate, 2020.  
+**Lewis, N. T.**, G. C. Colyer, and P. L. Read. The dependence of global and local metrics of super-rotation on planetary rotation rate.
 
-#### 2019
+#### 2020
 Read, P. L., **N. T. Lewis**, D. Kennedy, H. Scolan, F. Tabataba-Vakili, Y. Wang, S. Wright, and R. Young. Baroclinic and barotropic instabilities in planetary atmospheres - energetics, equilibration and adjustment, Nonlinear Processes in Geophysics, *in review*. 
 
+#### 2019
 Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone, and P. L. Read. Investigating the semiannual oscillation on Mars using data assimilation, Icarus, 333, 404-414, 2019.
 
 #### 2018
