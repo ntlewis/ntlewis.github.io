@@ -13,7 +13,7 @@ permalink: /publications/
 
 Lambert, F. H., et al. (incl. **N. T. Lewis**). Continuous structural parameterisation: A method for writing different model parameterisations within one structure demonstrated for atmospheric convection. 
 
-Hammond, M., **N. T. Lewis**, S. Tsai, R. T. Pierrehumbert. The rotational and divergent components of the atmospheric circulation on tidally locked planets. 
+Hammond, M., **N. T. Lewis**, S. Tsai, and R. T. Pierrehumbert. The rotational and divergent components of the atmospheric circulation on tidally locked planets. 
 
 
 #### 2020
