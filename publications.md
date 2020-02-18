@@ -11,15 +11,16 @@ permalink: /publications/
 
 **Lewis, N. T.**, S. I. Thomson, and G. K. Vallis. The climate and atmospheric dynamics of an Earth-like planet on an elliptical orbit.
 
-Lambert, F. H., et al. (incl. **N. T. Lewis**). Continuous structural parameterisation: A method for writing different model parameterisations within one structure demonstrated for atmospheric convection. 
-
 Hammond, M., **N. T. Lewis**, S.-M. Tsai, and R. T. Pierrehumbert. The rotational and divergent components of the atmospheric circulation on tidally locked planets. 
 
 Patterson, M., T. Woolings, **N. T. Lewis**, and T. Bracegirdle. The wintertime Southern Hemisphere extratropical circulation and the role of Antarctic topography. 
 
 
 #### 2020
-Read, P. L., **N. T. Lewis**, D. Kennedy, H. Scolan, F. Tabataba-Vakili, Y. Wang, S. Wright, and R. Young. Baroclinic and barotropic instabilities in planetary atmospheres - energetics, equilibration and adjustment, Nonlinear Processes in Geophysics, *in review*. 
+
+Lambert, F. H., P. G. Challenor, **N. T. Lewis**, D. J. McNeall, N. Owen, I. A. Boutle, H. Christensen, R. J. Keane, N. J. Mayne, A. Stirling, and M. J. Webb. Continuous Structural Parameterization: A method for representing different model parameterizations within one structure demonstrated for atmospheric convection, J. Adv. Model. Earth Sys., *in review*.
+
+Read, P. L., **N. T. Lewis**, D. Kennedy, H. Scolan, F. Tabataba-Vakili, Y. Wang, S. Wright, and R. Young. Baroclinic and barotropic instabilities in planetary atmospheres - energetics, equilibration and adjustment, Nonlin. Proc. Geophys. Discuss., *in review*. 
 
 #### 2019
 Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone, and P. L. Read. Investigating the semiannual oscillation on Mars using data assimilation, Icarus, 333, 404-414, 2019.
@@ -32,6 +33,8 @@ Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone, and P. L. Read. Investigat
 ### Conference Presentations / Posters 
 
 #### 2020 
+**Lewis, N. T.**, G. J. Colyer, and P. L. Read. The dependence of global and local metrics of super-rotation on planetary rotation rate. EGU General Assembly, Vienna, Austria, 2020.  
+
 **Lewis, N. T.**, G. J. Colyer, and P. L. Read. The dependence of global super-rotation on planetary rotation rate. The Dynamics of Rotating Fluids, London, United Kingdom, 2020. (Presentation) 
 
 #### 2019 
