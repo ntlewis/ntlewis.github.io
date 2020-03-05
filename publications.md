@@ -13,17 +13,18 @@ permalink: /publications/
 
 Hammond, M., **N. T. Lewis**, S.-M. Tsai, and R. T. Pierrehumbert. The rotational and divergent components of the atmospheric circulation on tidally locked planets. 
 
-Patterson, M., T. Woolings, **N. T. Lewis**, and T. Bracegirdle. The wintertime Southern Hemisphere extratropical circulation and the role of Antarctic topography. 
-
 
 #### 2020
+Patterson, M., T. Woolings, **N. T. Lewis**, and T. Bracegirdle. Wintertime Southern Hemisphere jet streams shaped by interaction of transient eddies with Antarctic orography, J. Clim., *submitted*.
 
 Lambert, F. H., P. G. Challenor, **N. T. Lewis**, D. J. McNeall, N. Owen, I. A. Boutle, H. Christensen, R. J. Keane, N. J. Mayne, A. Stirling, and M. J. Webb. Continuous Structural Parameterization: A method for representing different model parameterizations within one structure demonstrated for atmospheric convection, J. Adv. Model. Earth Sys., *submitted*.
 
 Read, P. L., **N. T. Lewis**, D. Kennedy, H. Scolan, F. Tabataba-Vakili, Y. Wang, S. Wright, and R. Young. Baroclinic and barotropic instabilities in planetary atmospheres - energetics, equilibration and adjustment, Nonlin. Proc. Geophys. Discuss., *accepted*. 
 
+
 #### 2019
 Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone, and P. L. Read. Investigating the semiannual oscillation on Mars using data assimilation, Icarus, 333, 404-414, 2019.
+
 
 #### 2018
 **Lewis, N. T.**, F. H. Lambert, I. A. Boutle, N. J. Mayne, J. Manners, and D. M. Acreman. The influence of a sub-stellar continent on the climate of a tidally-locked exoplanet, Astrophys. J., Vol. 854, 171, 2018.
