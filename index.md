@@ -5,10 +5,16 @@
 layout: home
 ---
 
-**WEBSITE UNDER CONSTRUCTION**
+### About 
 
 
-I am a postgraduate student at the University of Oxford, studying towards a DPhil in Atmospheric, Oceanic and Planetary Physics under the supervision of Prof. Peter Read. Before arriving in Oxford, I studied Mathematics at the University of Exeter where I obtained a first degree in MSci Mathematics (Climate Science). Whilst in Exeter, I completed a masters research project under the supervision of Prof. Geoff Vallis.  
+I am a postgraduate student at the University of Oxford, studying towards a DPhil in Atmospheric, Oceanic and Planetary Physics under the supervision of Professor Peter Read. 
+
+At present, my main research interest is understanding the large-scale dynamics of Solar System and exo-planetary atmospheres, and my DPhil project is focussed on super-rotation in terrestrial atmospheres. I have a general interest in the full range of topics falling under the umbrella of 'Geophysical Fluid Dynamics'.
+
+Before arriving in Oxford I studied Mathematics at the University of Exeter, where I obtained an MSci Mathematics degree (first class). I completed my masters dissertation under the supervision of Professor Geoff Vallis. I spent my formative years at Sir Thomas Rich’s School, Gloucester. 
+
+Having grown up in the Cotswolds, I am very fond of the outdoors and enjoy walking in my spare time. I also enjoy drawing, and I’m a keen squash player (although I’m not very good). 
 
 <!--
 #### Research focus
