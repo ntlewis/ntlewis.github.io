@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: page
 permalink: /publications/
 ---
 
-### Published Work 
+## Published Work 
 
 ### Journal Publications 
 
