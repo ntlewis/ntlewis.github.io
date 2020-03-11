@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 ---
 
-## Publications 
+### Publications 
 
 ### Journal Publications 
 
