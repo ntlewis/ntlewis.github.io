@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## About 
+## Home 
 
 I am a postgraduate student at the University of Oxford, studying towards a DPhil in Atmospheric, Oceanic and Planetary Physics under the supervision of Professor Peter Read. 
 
