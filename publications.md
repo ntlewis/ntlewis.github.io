@@ -8,7 +8,6 @@ permalink: /publications/
 ### Journal Publications 
 
 #### In prep
-**Lewis, N. T.**, G. J. Colyer, and P. L. Read. The dependence of global super-rotation on planetary rotation rate.
 
 **Lewis, N. T.**, S. I. Thomson, and G. K. Vallis. The climate and atmospheric dynamics of an Earth-like planet on an elliptical orbit.
 
@@ -16,11 +15,14 @@ Hammond, M., **N. T. Lewis**, S.-M. Tsai, and R. T. Pierrehumbert. The rotationa
 
 
 #### 2020
+
+Read, P. L., **N. T. Lewis**, D. Kennedy, H. Scolan, F. Tabataba-Vakili, Y. Wang, S. Wright, and R. Young. Baroclinic and barotropic instabilities in planetary atmospheres - energetics, equilibration and adjustment, Nonlin. Proc. Geophys., 27 (2), 147-173, 2020. 
+
+**Lewis, N. T.**, G. J. Colyer, and P. L. Read. The dependence of global super-rotation on planetary rotation rate, J. Atmos. Sci., *submitted*. 
+
 Patterson, M., T. Woolings, **N. T. Lewis**, and T. Bracegirdle. Wintertime Southern Hemisphere jet streams shaped by interaction of transient eddies with Antarctic orography, J. Clim., *submitted*.
 
 Lambert, F. H., P. G. Challenor, **N. T. Lewis**, D. J. McNeall, N. Owen, I. A. Boutle, H. Christensen, R. J. Keane, N. J. Mayne, A. Stirling, and M. J. Webb. Continuous Structural Parameterization: A method for representing different model parameterizations within one structure demonstrated for atmospheric convection, J. Adv. Model. Earth Sys., *submitted*.
-
-Read, P. L., **N. T. Lewis**, D. Kennedy, H. Scolan, F. Tabataba-Vakili, Y. Wang, S. Wright, and R. Young. Baroclinic and barotropic instabilities in planetary atmospheres - energetics, equilibration and adjustment, Nonlin. Proc. Geophys. Discuss., *accepted*. 
 
 
 #### 2019
