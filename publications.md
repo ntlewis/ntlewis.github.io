@@ -36,7 +36,8 @@ Ruan, T., **N. T. Lewis**, S. R. Lewis, L. Montabone, and P. L. Read. Investigat
 **Lewis, N. T.**, F. H. Lambert, I. A. Boutle, N. J. Mayne, J. Manners, and D. M. Acreman. The influence of a sub-stellar continent on the climate of a tidally-locked exoplanet, Astrophys. J., Vol. 854, 171, 2018.
 
 
-
+### Invited talks 
+**Lewis, N. T.**, G. J. Colyer, and P. L. Read. The dependence of global super-rotation on planetary rotation rate. Univ. Grenoble / LMD, France, 2020. 
 
 ### Conference Presentations 
 
